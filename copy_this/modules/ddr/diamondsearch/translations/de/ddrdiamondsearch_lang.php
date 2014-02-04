@@ -15,7 +15,8 @@
  */
 
 /**
- * @todo: German translations. NOTE: File encoding must be ISO-8859-15.
+ * German translation by OXBERTRAND http://forum.oxid-esales.com/member.php?u=8563
+ * GPL V3
  */
 
 $sLangName = "Deutsch";
@@ -28,22 +29,22 @@ $aLang = array(
      */
 
     // Texts
-    'DDR_DIAMONDSEARCH_MONITOR_TITLE'            => 'Diamond Search - Monitor',
-    'DDR_DIAMONDSEARCH_MONITOR_INTRO'            => 'Welcome to Diamond Search engine status and statistics dashboard!',
-    'DDR_DIAMONDSEARCH_MONITOR_CEINFO'           => 'NOTE: Diamond Search CE has only very limited setting and statistics.',
-    'DDR_DIAMONDSEARCH_MONITOR_MORETOCOME'       => 'More statistics and parameters to come in next releases!',
+    'DDR_DIAMONDSEARCH_MONITOR_TITLE'            => 'Diamond Search-Monitor',
+    'DDR_DIAMONDSEARCH_MONITOR_INTRO'            => 'Willkommen auf dem Status- und Statisik-Dashboard der Diamond-Suche!',
+    'DDR_DIAMONDSEARCH_MONITOR_CEINFO'           => 'Hinweis: Diamond Search CE besitzt bislang nur begrenzte Konfugurations- und Auswertungsm&ouml;glichkeiten.',
+    'DDR_DIAMONDSEARCH_MONITOR_MORETOCOME'       => 'Noch mehr statistische Werte und Parameter in den n&auml;chsten Releases!',
 
     // Table headings
-    'DDR_DIAMONDSEARCH_MONITOR_ALLSHOPS'         => 'All languages and shops statistics',
-    'DDR_DIAMONDSEARCH_MONITOR_CURRENTSHOP'      => 'Current shop and language statistics',
-    'DDR_DIAMONDSEARCH_MONITOR_EEPEONLY'         => '(EE/PE Editions Only)',
+    'DDR_DIAMONDSEARCH_MONITOR_ALLSHOPS'         => 'Statistiken f&uuml;r alle Sprachen und Shops',
+    'DDR_DIAMONDSEARCH_MONITOR_CURRENTSHOP'      => 'Aktuelle Shop- und Sprachstatistiken',
+    'DDR_DIAMONDSEARCH_MONITOR_EEPEONLY'         => '(Nur f&uuml;r die EE- und PE-Ausgaben)',
 
     // Table content
-    'DDR_DIAMONDSEARCH_MONITOR_QUEUESIZE'        => 'Not indexed articles waiting in queue',
-    'DDR_DIAMONDSEARCH_MONITOR_TERMSCOUNT'       => 'Search terms count in index',
-    'DDR_DIAMONDSEARCH_MONITOR_TOPUSEDTERMS'     => 'Most frequently indexed terms',
-    'DDR_DIAMONDSEARCH_MONITOR_TOPSEARCHEDTERMS' => 'Most popular terms users search for',
+    'DDR_DIAMONDSEARCH_MONITOR_QUEUESIZE'        => 'Nicht indizierte Artikel in der Warteschlange',
+    'DDR_DIAMONDSEARCH_MONITOR_TERMSCOUNT'       => 'Anzahl der Suchbegriffe im Index',
+    'DDR_DIAMONDSEARCH_MONITOR_TOPUSEDTERMS'     => 'Am h&auml;figsten indizierte Begriffe',
+    'DDR_DIAMONDSEARCH_MONITOR_TOPSEARCHEDTERMS' => 'Am h&auml;ufigsten gesuchte Begriffe',
 
     // Actions
-    'DDR_DIAMONDSEARCH_MONITOR_INDEXNOW'         => 'Index now!',
+    'DDR_DIAMONDSEARCH_MONITOR_INDEXNOW'         => 'Jetzt indizieren!',
 );
